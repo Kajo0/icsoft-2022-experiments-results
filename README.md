@@ -1,6 +1,6 @@
 # Data partitioning strategies for simulating non-IID data distributions in the DDM-PS-Eval evaluation platform
 
-The repository holds raw data of results from DDM-PS-Eval evaluation platform collected mainly for ICSOFT paper purposes.
+The repository holds flattened raw data of results from the DDM-PS-Eval evaluation platform collected mainly for ICSOFT paper purposes.
 
 ## ICSOFT 2022
 
